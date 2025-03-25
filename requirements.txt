@@ -1,0 +1,14 @@
+# Core dependencies for behavioral biometrics
+pynput>=1.7.6  # For keyboard and mouse monitoring
+numpy>=1.21.0  # For numerical operations and data analysis
+pandas>=1.3.0  # For data manipulation and analysis
+scikit-learn>=1.0.2  # For pattern recognition and classification
+
+# System and utility dependencies
+python-dateutil>=2.8.2  # For datetime handling
+pywin32>=228; platform_system=="Windows"  # For Windows-specific functionality
+pyinstaller>=5.13.0  # For creating executable
+
+# Optional dependencies (will be needed later)
+# PyQt6>=6.4.0  # For GUI (commented out until needed)
+# tensorflow>=2.10.0  # For advanced ML (commented out until needed) 
