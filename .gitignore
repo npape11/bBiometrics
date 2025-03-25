@@ -40,6 +40,7 @@ data/           # Contains user behavioral data and trained models
 .env           # Environment variables if you add them later
 config.ini     # Any config files with sensitive info
 todo.txt
+login.tok
 
 # Windows specific
 *.exe
